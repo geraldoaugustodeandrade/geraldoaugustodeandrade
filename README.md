@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Geraldo</h1>
 <h3 align="center">apaixonado por analise de dados e automação de sistemas</h3>
 
-- 🔭 Atualmente estou buscando por um **Estagio na Área de Tecnologia**
+- 🔭 Atualmente estou buscando por um **Estagio na Área de Tecnologia com Enfase em Engenharia de dados**
 
 - 🌱 Estou cursando **Tecnologia em Analise e Desenvolvimento de Sistemas na Puc-Minas**
 
